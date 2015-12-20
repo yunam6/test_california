@@ -1,0 +1,6 @@
+
+
+This file is here to keep the record of the commits, the hash numbers, etc - in case I need to do some RESETS, especially 
+HARD - ones, the hash numbers will not show in Git's log, but Git will still remember them. 
+
+Also, for any other notes, or observations that apply to this particular GIT project. 
